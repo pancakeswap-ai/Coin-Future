@@ -29,8 +29,8 @@
 #### 部分截图
 <table>
     <tr>
-         <td width="33.33%"><img src="./img/w1.png" width="100%" height="auto"/></td>
-     <td width="33.33%"><img src="./img/w2.png" width="100%" height="auto"/></td>
-     <td width="33.33%"><img src="./img/d1.png" width="100%" height="auto"/></td>
+         <td width="33.33%"><img src="./w1.png" width="100%" height="auto"/></td>
+     <td width="33.33%"><img src="./w2.png" width="100%" height="auto"/></td>
+     <td width="33.33%"><img src="./d1.png" width="100%" height="auto"/></td>
     </tr>
 </table>
